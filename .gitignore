@@ -41,3 +41,5 @@ terraform.rc
 
 # :D
 .DS_Store
+
+**/personal-gcp.json
